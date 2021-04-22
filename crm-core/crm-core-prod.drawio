@@ -1,0 +1,340 @@
+<mxfile host="app.diagrams.net" modified="2021-04-22T04:53:58.983Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="m3pcwGV1XViwGA2upEn1" version="14.6.1" type="github">
+  <diagram id="Ix533Ehpni6tZQD2qXDV" name="Page-1">
+    <mxGraphModel dx="2808" dy="-616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-1" value="AWS cloud" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1550" y="1750" width="2235" height="1405" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-2" value="" style="shape=mxgraph.aws3.cloud;fillColor=#F58536;" parent="1Ivmm6AKhL_ZwF8L0Lqb-1" vertex="1">
+          <mxGeometry x="20" y="-20" width="52" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-3" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1520" y="2125" width="1680" height="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-4" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" parent="1Ivmm6AKhL_ZwF8L0Lqb-3" vertex="1">
+          <mxGeometry x="20" y="-20" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-5" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1518" y="1795" width="315" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-6" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" parent="1Ivmm6AKhL_ZwF8L0Lqb-5" vertex="1">
+          <mxGeometry x="20" y="-20" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-7" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="175" y="2125" width="319" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-8" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" parent="1Ivmm6AKhL_ZwF8L0Lqb-7" vertex="1">
+          <mxGeometry x="20" y="-20" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-9" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-1171" y="1795" width="255" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-10" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" parent="1Ivmm6AKhL_ZwF8L0Lqb-9" vertex="1">
+          <mxGeometry x="20" y="-20" width="30" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-11" value="AWS cloud" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="1300" width="435" height="385" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-12" value="" style="shape=mxgraph.aws3.cloud;fillColor=#F58536;" parent="1Ivmm6AKhL_ZwF8L0Lqb-11" vertex="1">
+          <mxGeometry x="20" y="-20" width="52" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-13" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=0.8;html=1;" parent="1" vertex="1">
+          <mxGeometry x="282" y="1346" width="404" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-14" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" parent="1Ivmm6AKhL_ZwF8L0Lqb-13" vertex="1">
+          <mxGeometry x="20" y="-20" width="30" height="35" as="geometry" />
+        </mxCell>
+        <UserObject label="Availability Zone" lucidchartObjectId="Iy5sOyg_45i7" id="1Ivmm6AKhL_ZwF8L0Lqb-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;fontColor=#0E82B8;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#147eba;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1490" y="2165" width="510" height="930" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Availability Zone" lucidchartObjectId="Iy5sWLwREDe0" id="1Ivmm6AKhL_ZwF8L0Lqb-16">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;fontColor=#0E82B8;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#147eba;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-935" y="2165" width="510" height="930" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Availability Zone" lucidchartObjectId="Iy5s0tge0Sh4" id="1Ivmm6AKhL_ZwF8L0Lqb-17">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;fontColor=#0E82B8;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#147eba;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-380" y="2165" width="510" height="930" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-18" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;fontColor=#248814;spacing=0;strokeColor=none;strokeOpacity=100;fillOpacity=13;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#248814;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1460" y="2210" width="1560" height="135" as="geometry" />
+        </mxCell>
+        <UserObject label="Public Subnet" lucidchartObjectId="Iy5spJeAMjVG" id="1Ivmm6AKhL_ZwF8L0Lqb-19">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;verticalAlign=top;align=left;spacingLeft=30;fillOpacity=100;strokeColor=#2C8723;fontColor=#2C8723;fillColor=none;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;part=1;" parent="1Ivmm6AKhL_ZwF8L0Lqb-18" vertex="1">
+            <mxGeometry width="1560" height="135" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-20" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeColor=none;strokeOpacity=100;fillOpacity=13;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#147eba;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1460" y="2375" width="1560" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="Private Subnet" lucidchartObjectId="Iy5s3H7t7T_d" id="1Ivmm6AKhL_ZwF8L0Lqb-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;verticalAlign=top;align=left;spacingLeft=30;fillOpacity=100;strokeColor=#0E82B8;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;part=1;" parent="1Ivmm6AKhL_ZwF8L0Lqb-20" vertex="1">
+            <mxGeometry width="1560" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-22" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeColor=none;strokeOpacity=100;fillOpacity=13;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#147eba;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1460" y="2525" width="1560" height="240" as="geometry" />
+        </mxCell>
+        <UserObject label="Private Subnet" lucidchartObjectId="Iy5sytopvtwf" id="1Ivmm6AKhL_ZwF8L0Lqb-23">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;verticalAlign=top;align=left;spacingLeft=30;fillOpacity=100;strokeColor=#0E82B8;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;part=1;" parent="1Ivmm6AKhL_ZwF8L0Lqb-22" vertex="1">
+            <mxGeometry width="1560" height="240" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-24" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeColor=none;strokeOpacity=100;fillOpacity=13;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#147eba;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1460" y="2780" width="1560" height="150" as="geometry" />
+        </mxCell>
+        <UserObject label="Private Subnet" lucidchartObjectId="Iy5s8G-oUXsW" id="1Ivmm6AKhL_ZwF8L0Lqb-25">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;verticalAlign=top;align=left;spacingLeft=30;fillOpacity=100;strokeColor=#0E82B8;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;part=1;" parent="1Ivmm6AKhL_ZwF8L0Lqb-24" vertex="1">
+            <mxGeometry width="1560" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Amazon Elasticsearch Service" lucidchartObjectId="Iy5sFvATFrmv" id="1Ivmm6AKhL_ZwF8L0Lqb-26">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elasticsearch_service;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#693cc5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="415" y="1400" width="165" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="DocumentDB (with MongoDB Compatibility)" lucidchartObjectId="Iy5sv_Hh1rTW" id="1Ivmm6AKhL_ZwF8L0Lqb-27">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1488" y="1835" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Azure Database for PostgreSQL Servers" lucidchartObjectId="Iy5sV6v~14~i" id="1Ivmm6AKhL_ZwF8L0Lqb-28">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;aspect=fixed;html=1;points=[];align=center;verticalAlign=top;image;image=img/lib/mscae/Azure_Database_for_PostgreSQL_servers.svg;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#59b3d8;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1383" y="1827" width="60" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Amazon SQS" lucidchartObjectId="Iy5sYzdF0Kvm" id="1Ivmm6AKhL_ZwF8L0Lqb-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.sqs;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d9a741;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="235" y="2449" width="74" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AWS Lambda" lucidchartObjectId="Iy5s~pT8pgLA" id="1Ivmm6AKhL_ZwF8L0Lqb-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.lambda;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="235" y="2629" width="74" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Route 53 DNS" lucidchartObjectId="Iy5sVkUAuOpl" id="1Ivmm6AKhL_ZwF8L0Lqb-31">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.hosted_zone;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="100" y="1970" width="89" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="hosted zone" lucidchartObjectId="Iy5sQZIsW_Gk" id="1Ivmm6AKhL_ZwF8L0Lqb-32">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.hosted_zone;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="235" y="2824" width="89" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Lambda function" lucidchartObjectId="Iy5sM~ladD1Q" id="1Ivmm6AKhL_ZwF8L0Lqb-33">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.lambda_function;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1115" y="1835" width="86" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="crm-core-prod-active-01" lucidchartObjectId="Iy5s.5F2DaNA" id="1Ivmm6AKhL_ZwF8L0Lqb-34">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-710" y="2075" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="crm-core-prod-pasive-01" lucidchartObjectId="Iy5sXV1Wq6.2" id="1Ivmm6AKhL_ZwF8L0Lqb-35">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="250" y="2075" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="crm-core-prod-db-01" lucidchartObjectId="Iy5sjWCVytyv" id="1Ivmm6AKhL_ZwF8L0Lqb-36">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1445" y="1760" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="crm-core-prod-utility-01" lucidchartObjectId="Iy5s.zhdXlrf" id="1Ivmm6AKhL_ZwF8L0Lqb-37">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1115" y="1760" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="OnPrem Network" lucidchartObjectId="Iy5srwlWb6b." id="1Ivmm6AKhL_ZwF8L0Lqb-38">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;fontColor=#0E82B8;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#147eba;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1520" y="1295" width="600" height="360" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13px;color:#5a6c86;&quot;&gt;Internal DNS&#xa;crmcore.dialog.lk&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:14px;color:#000000;&quot;&gt;orchestrator.dialog.lk&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="Iy5seyZAPzMK" id="1Ivmm6AKhL_ZwF8L0Lqb-39">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;align=center;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;strokeColor=#5A6C86;fontColor=#5A6C86;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1490" y="1325" width="225" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Iy5sc565wmTy" id="1Ivmm6AKhL_ZwF8L0Lqb-40">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;align=center;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;strokeColor=#5A6C86;fontColor=#5A6C86;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1190" y="1400" width="45" height="165" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Vertual IP" lucidchartObjectId="Iy5s-PsD-TVx" id="1Ivmm6AKhL_ZwF8L0Lqb-41">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;rotation=-90;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1255" y="1452" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Firewall" lucidchartObjectId="Iy5sxCosxQmA" id="1Ivmm6AKhL_ZwF8L0Lqb-42">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=none;shape=mxgraph.mscae.enterprise.firewall;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#2a3282;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1085" y="1445" width="90" height="79" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Iy5s.g~SU0ml" id="1Ivmm6AKhL_ZwF8L0Lqb-43">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.customer_gateway;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#693cc5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-950" y="1453" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AWS Direct Connect" lucidchartObjectId="Iy5sbPXzwqRJ" id="1Ivmm6AKhL_ZwF8L0Lqb-44">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.direct_connect;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-440" y="1700" width="74" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Iy5sbUYVCTXa" id="1Ivmm6AKhL_ZwF8L0Lqb-45">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=0;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;" parent="1" source="1Ivmm6AKhL_ZwF8L0Lqb-44" target="1Ivmm6AKhL_ZwF8L0Lqb-43" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Megaport" lucidchartObjectId="Iy5s4W-HX0._" id="1Ivmm6AKhL_ZwF8L0Lqb-46">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-755" y="1445" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Firewall/ WAF" lucidchartObjectId="Iy5szIwBXb1R" id="1Ivmm6AKhL_ZwF8L0Lqb-47">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;align=center;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;strokeColor=#5A6C86;fontColor=#5A6C86;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="25" y="1850" width="240" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Internet gateway" lucidchartObjectId="Iy5snM1cD97q" id="1Ivmm6AKhL_ZwF8L0Lqb-48">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.internet_gateway;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#693cc5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="115" y="1715" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Iy5sCB~GR~7v" id="1Ivmm6AKhL_ZwF8L0Lqb-49">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.015;exitY=0.459;exitPerimeter=0;entryX=0.5;entryY=0.857;entryPerimeter=0;" parent="1" source="1Ivmm6AKhL_ZwF8L0Lqb-31" target="1Ivmm6AKhL_ZwF8L0Lqb-44" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Iy5sUD0MGVWU" id="1Ivmm6AKhL_ZwF8L0Lqb-50">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=0.002;exitPerimeter=0;entryX=0.498;entryY=1.019;entryPerimeter=0;" parent="1" source="1Ivmm6AKhL_ZwF8L0Lqb-31" target="1Ivmm6AKhL_ZwF8L0Lqb-47" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="Iy5sMJ5Pltgk" id="1Ivmm6AKhL_ZwF8L0Lqb-51">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=0.5;exitY=-0.019;exitPerimeter=0;entryX=0.5;entryY=1;entryPerimeter=0;" parent="1" source="1Ivmm6AKhL_ZwF8L0Lqb-47" target="1Ivmm6AKhL_ZwF8L0Lqb-48" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Internet" lucidchartObjectId="Iy5s1rDXcdBx" id="1Ivmm6AKhL_ZwF8L0Lqb-52">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.internet;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d2d3d3;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="46" y="1535" width="180" height="149" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Application Load Balancer" lucidchartObjectId="Iy5sYelnVDcf" id="1Ivmm6AKhL_ZwF8L0Lqb-53">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.application_load_balancer;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1190" y="2240" width="49" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Amazon CloudWatch agent (daemonset)" lucidchartObjectId="Iy5sW~6.WiiR" id="1Ivmm6AKhL_ZwF8L0Lqb-54">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.cloudwatch;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#759c3e;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1055" y="2810" width="34" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="1Ivmm6AKhL_ZwF8L0Lqb-55" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeColor=none;strokeOpacity=100;fillOpacity=13;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#147eba;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1460" y="2960" width="1560" height="120" as="geometry" />
+        </mxCell>
+        <UserObject label="Private Subnet" lucidchartObjectId="Iy5shHnmZWVl" id="1Ivmm6AKhL_ZwF8L0Lqb-56">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;verticalAlign=top;align=left;spacingLeft=30;fillOpacity=100;strokeColor=#0E82B8;fillColor=none;whiteSpace=wrap;fontSize=13;fontColor=#147eba;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;part=1;" parent="1Ivmm6AKhL_ZwF8L0Lqb-55" vertex="1">
+            <mxGeometry width="1560" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Utility Subnet&#xa;172.0.0..x/28 * 3" lucidchartObjectId="Iy5sCijaFJXo" id="1Ivmm6AKhL_ZwF8L0Lqb-57">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1430" y="3018" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Node Subnet&#xa;172.0.0..y/28 * 3" lucidchartObjectId="Iy5sxe2-dQos" id="1Ivmm6AKhL_ZwF8L0Lqb-58">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1445" y="2839" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pod Subnet&#xa;100.0.0..x/22 * 3" lucidchartObjectId="Iy5s9qUesOgq" id="1Ivmm6AKhL_ZwF8L0Lqb-59">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1460" y="2644" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Private ALB Subnet&#xa;172.0.0..z/28 * 3" lucidchartObjectId="Iy5s1vmUCZ2P" id="1Ivmm6AKhL_ZwF8L0Lqb-60">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1445" y="2434" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="file system" lucidchartObjectId="VD5soR4mzIGd" id="1Ivmm6AKhL_ZwF8L0Lqb-61">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.efs_share;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e05243;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1072" y="3001" width="79" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Application Load Balancer" lucidchartObjectId="iF5sOhFT45uS" id="1Ivmm6AKhL_ZwF8L0Lqb-62">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.application_load_balancer;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1190" y="2389" width="49" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Amazon Elastic Container Service for Kubernetes" lucidchartObjectId="PH5skEUNv3ko" id="1Ivmm6AKhL_ZwF8L0Lqb-63">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d86613;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1280" y="2494" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Generic Group" lucidchartObjectId="_H5s_mTZ0YMq" id="1Ivmm6AKhL_ZwF8L0Lqb-64">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalAlign=top;align=center;fillColor=none;fillOpacity=100;dashed=1;dashPattern=5 5;strokeColor=#5A6C86;fontColor=#5A6C86;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1250" y="2509" width="1305" height="435" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AWS Fargate" lucidchartObjectId="cJ5sRJr-mZ08" id="1Ivmm6AKhL_ZwF8L0Lqb-65">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.fargate;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d86613;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1190" y="2495" width="62" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Private ALB Subnet&#xa;172.0.0..a/28 * 3" lucidchartObjectId="EL5srKmXw512" id="1Ivmm6AKhL_ZwF8L0Lqb-66">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1445" y="2284" width="180" height="48" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pod" lucidchartObjectId="_N5sZ8ozheqM" id="1Ivmm6AKhL_ZwF8L0Lqb-67">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=none;shape=mxgraph.kubernetes.icon;prIcon=pod;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#326ce5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1070" y="2659" width="75" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pod" lucidchartObjectId="mO5sXHiG_lpx" id="1Ivmm6AKhL_ZwF8L0Lqb-68">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=none;shape=mxgraph.kubernetes.icon;prIcon=pod;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#326ce5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1160" y="2659" width="75" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Instance&#xa;logs mount" lucidchartObjectId="DP5s.yseaIi3" id="1Ivmm6AKhL_ZwF8L0Lqb-69">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.instance2;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d86613;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="-1175" y="2974" width="60" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Amazon CloudWatch" lucidchartObjectId="4Q5skjbg~o3t" id="1Ivmm6AKhL_ZwF8L0Lqb-70">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudwatch;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#cc2264;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="240" y="3003" width="90" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Amazon S3" lucidchartObjectId="fS5s.RQjMb.p" id="1Ivmm6AKhL_ZwF8L0Lqb-71">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.s3;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e05243;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="419" y="2452" width="74" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:33.3px;color:#333333;&quot;&gt;EKS + fargate cluster&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:33.3px;color:#333333;&quot;&gt;Custom cni&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:33.3px;color:#333333;&quot;&gt;alb.ingress group&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:33.3px;color:#333333;&quot;&gt;node auto scaling&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:33.3px;color:#333333;&quot;&gt;Grafana, Prometheus setup in separate cluster&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="tT5sSiziAIux" id="1Ivmm6AKhL_ZwF8L0Lqb-72">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=3.8;verticalAlign=middle;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="385" y="2749" width="750" height="247" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
