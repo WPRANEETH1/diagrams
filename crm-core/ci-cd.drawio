@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:38:24.981Z" agent="5.0 (Windows)" etag="BdgKPMk84ek4leW1ZQQ_" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:46:33.544Z" agent="5.0 (Windows)" etag="f6wBaDGHQpny_1dXba1e" version="15.1.4" type="github">
   <diagram id="eZCbMqcHAq4MBGpMELdb" name="Page-1">
-    <mxGraphModel dx="3731" dy="1" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6440" dy="1470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,25 +8,36 @@
           <mxGeometry x="-1300" y="2830" width="970" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-vDgOGVIG-pi1xg_W1-1-135" value="AWS cloud" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=6;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1470" y="1830" width="2235" height="1405" as="geometry" />
+          <mxGeometry x="-1470" y="1830" width="2530" height="1405" as="geometry" />
         </mxCell>
         <mxCell id="-vDgOGVIG-pi1xg_W1-1-136" value="" style="shape=mxgraph.aws3.cloud;fillColor=#F58536;" parent="-vDgOGVIG-pi1xg_W1-1-135" vertex="1">
-          <mxGeometry x="20" y="-20" width="52" height="36" as="geometry" />
+          <mxGeometry x="18.7313177243877" y="-20" width="48.70142608340802" height="36" as="geometry" />
         </mxCell>
         <mxCell id="CeDXnUehKGp5fR4ZiVG2-69" value="" style="endArrow=none;startArrow=classic;html=1;fontSize=11;strokeWidth=4;verticalAlign=middle;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=1;strokeColor=#6E6E6E;" edge="1" parent="-vDgOGVIG-pi1xg_W1-1-135" source="1jFLiYK3fE-41lCPN-gD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="1270" as="sourcePoint" />
-            <mxPoint x="30" y="900" as="targetPoint" />
+            <mxPoint x="28.09697658658155" y="1270" as="sourcePoint" />
+            <mxPoint x="30" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1300" y="900" />
-              <mxPoint x="1300" y="1370" />
-              <mxPoint x="120" y="1380" />
-              <mxPoint x="90" y="1370" />
-              <mxPoint x="60" y="1350" />
-              <mxPoint x="40" y="1320" />
+              <mxPoint x="1269.922178988327" y="900" />
+              <mxPoint x="1269.922178988327" y="1380" />
+              <mxPoint x="112.3879063463262" y="1380" />
+              <mxPoint x="84.29092975974466" y="1370" />
+              <mxPoint x="56.1939531731631" y="1350" />
+              <mxPoint x="37.4626354487754" y="1320" />
               <mxPoint x="30" y="1280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CeDXnUehKGp5fR4ZiVG2-115" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeWidth=6;fillColor=none;" vertex="1" parent="-vDgOGVIG-pi1xg_W1-1-135">
+          <mxGeometry x="2199.9987548638132" y="460" width="285.4863813229572" height="880" as="geometry" />
+        </mxCell>
+        <UserObject label="Route 53 DNS" lucidchartObjectId="Iy5sVkUAuOpl" id="CeDXnUehKGp5fR4ZiVG2-116">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws3.hosted_zone;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#f58536;strokeWidth=2.3;" vertex="1" parent="-vDgOGVIG-pi1xg_W1-1-135">
+            <mxGeometry x="2231" y="500" width="89" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CeDXnUehKGp5fR4ZiVG2-117" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Lambda&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;rounded=1;fontSize=11;strokeWidth=6;" vertex="1" parent="-vDgOGVIG-pi1xg_W1-1-135">
+          <mxGeometry x="2221.35" y="680" width="108.29" height="113" as="geometry" />
         </mxCell>
         <mxCell id="-vDgOGVIG-pi1xg_W1-1-140" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=17;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=6;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-1390" y="1875" width="267" height="215" as="geometry" />
