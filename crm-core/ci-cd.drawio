@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T15:00:05.135Z" agent="5.0 (Windows)" etag="v4zIodICEqbZbOChHQ3z" version="15.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T15:00:43.234Z" agent="5.0 (Windows)" etag="JfPUj8yd7RIos7jLoR-d" version="15.2.2" type="github">
   <diagram id="eZCbMqcHAq4MBGpMELdb" name="Page-1">
-    <mxGraphModel dx="5255" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5763" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-1420" y="1910" width="2100" height="1180" as="geometry" />
         </mxCell>
         <mxCell id="-vDgOGVIG-pi1xg_W1-1-136" value="" style="shape=mxgraph.aws3.cloud;fillColor=#F58536;" parent="-vDgOGVIG-pi1xg_W1-1-135" vertex="1">
-          <mxGeometry x="18.7313177243877" y="-19.6513470681458" width="48.70142608340802" height="35.372424722662444" as="geometry" />
+          <mxGeometry x="-20" y="-50" width="117.43" height="85.29" as="geometry" />
         </mxCell>
         <mxCell id="CeDXnUehKGp5fR4ZiVG2-69" value="" style="endArrow=none;startArrow=classic;html=1;fontSize=11;strokeWidth=4;verticalAlign=middle;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=1;strokeColor=#6E6E6E;" parent="-vDgOGVIG-pi1xg_W1-1-135" source="CeDXnUehKGp5fR4ZiVG2-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -243,7 +243,7 @@
           <mxGeometry x="1950" y="460" width="78.03" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-vDgOGVIG-pi1xg_W1-1-140" value="VPC subnet" style="rounded=1;arcSize=10;dashed=0;verticalAlign=bottom;whiteSpace=wrap;fontSize=17;fontColor=#333333;spacing=0;strokeColor=#474747;fillOpacity=0;fillColor=#000000;strokeWidth=6;html=1;fontStyle=1" parent="-vDgOGVIG-pi1xg_W1-1-135" vertex="1">
-          <mxGeometry x="70" y="169.00158478605388" width="267" height="221.07765451664025" as="geometry" />
+          <mxGeometry x="70" y="120.00158478605388" width="267" height="221.07765451664025" as="geometry" />
         </mxCell>
         <mxCell id="-vDgOGVIG-pi1xg_W1-1-141" value="" style="shape=mxgraph.aws3.permissions;fillColor=#D9A741;" parent="-vDgOGVIG-pi1xg_W1-1-140" vertex="1">
           <mxGeometry x="16.952380952380953" y="-14.988315560450191" width="25.428571428571427" height="26.229552230787828" as="geometry" />
@@ -478,8 +478,8 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="gitlab-prod-db-01" lucidchartObjectId="Iy5sjWCVytyv" id="-vDgOGVIG-pi1xg_W1-1-186">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=21;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;fontStyle=1;verticalAlign=middle;" parent="1" vertex="1">
-            <mxGeometry x="-1335" y="1835" width="245" height="45" as="geometry" />
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=21;fontColor=#333333;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;fontStyle=1;verticalAlign=middle;" parent="-vDgOGVIG-pi1xg_W1-1-135" vertex="1">
+            <mxGeometry x="70" y="20" width="245" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="OnPrem Network" lucidchartObjectId="Iy5srwlWb6b." id="-vDgOGVIG-pi1xg_W1-1-188">
